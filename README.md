@@ -29,7 +29,6 @@ e.g
         
 FFFFLFFFRBBFF
 
-
 FFFFRF
 The simulation was successful, car end position was: Car(xPos=1, yPos=4, direction=SOUTH)
 The car covered this route:
@@ -61,7 +60,6 @@ Turn Right (R)
 e.g
 
 FFFFLFFFRBBFF
-
 
 F
 The simulation was unsuccessful: The car collided with a wall at xPos: -1 and yPos: 0
